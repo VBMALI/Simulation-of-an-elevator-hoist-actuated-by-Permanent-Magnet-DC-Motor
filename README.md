@@ -1,2 +1,9 @@
 # Simulation-of-an-elevator-hoist-actuated-by-Permanent-Magnet-DC-Motor
-This project demonstrates the simulation of dynamic system of elevator hoist which is actuated by permanent magnet DC motor.
+- Derivation of differential equations of the elevator hoist system with spring and PMDC
+- Linearization of the original nonlinear system
+- State space representation of the system
+- Simulation of linearized and nonlinear system
+
+# Technologies Used:
+- Scripting Language: MATLAB
+- Simulation platform: Simulink
